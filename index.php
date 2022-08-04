@@ -1,7 +1,6 @@
 <?php 
 echo 'test aucation php '."<br>";
-//header( "location: http://www.ireallyhost.com" );
-// exit(0);
+
 
 echo 'host: '.$_SERVER['SERVER_NAME'];
 //header( 'location: html' );
